@@ -6,7 +6,7 @@ import heroku3
 from functools import wraps
 from pyrogram.types import Message
 from typing import Tuple
-from html_telegraph_poster import TelegraphPoster
+#from html_telegraph_poster import TelegraphPoster
 from bot import HEROKU_API_KEY, HEROKU_APP_NAME
 
 # Implement by https://github.com/jusidama18
