@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "liberty-320409",
+  "private_key_id": "3854f6f4014dada16633ee6000cf0901e77bea70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCk7iWly6Ie1Jqd\n6OTLssphj3Tdd+kClVdpbCioiEbMlO863k5iqOS4NOufEYOYYnSvCuiiS2eLfDd3\nJAmP7KjuWv8Cc2SLfTQZ4QCMEaADQxkoinZF3sA7Q4SBNob3FOeO4tQTnd4sfEKx\nM5dHZxCMdauVhMjAQmYF1Xrxozw1XihAl7AoCgx7u3PQwdgEJ3JWb2HtFqa5qD9w\nGmirCMPHd8fVslZAdjxInZ7kawzcjKzc50Wky+HqXyKiI/M7wDy3PfAgfIDXsOUU\n5wucLIkj1hdPtS2QRYJl0k/Eb3jXiF3C5h4nPUD4wm/sShsBy654pfIx0FPxU5U7\no0PH4gYpAgMBAAECggEAAQEpqIoGJELuPXz60Roh18NHFnGRsUArRqCahMruXMuh\nbg3cPgdCUV7nz9G2/U7INX1kWlde5j9s77mqoejymcpjGDw6BgwkAkOtEa1VI1VI\nH3JByH4pVJMTiQfwfYEal0kJZU8xAxCvWqNHo28yGhuTXndEaRYJHLWmqIxyeZll\nNdzbA5hILsHU38+HkndsDb3JltrBc5Q8+R5ligZ5zVO/8F8ESNuhRMnkBaPz6OxV\nRHtC7O9mv99HKY2ln8qyQ3xp8R7kpKO741tcd2XKAylNjMGn1AeG8GjS3Ve5MQKm\nRTA1sJ/s6bWrRe0Lf2XUkxj7o9n6GdDTEYEvYbsIgQKBgQDUtxIWMSWOvZaolHUg\n73E3BN2gIUzQ/JG00iovehdRuppLzq6i9y8W2jJYmA8tg4eXKkBoPfBXb00Ki801\nVB9KW4KgQstpl7sFxu0UCEqQEp0a9RY+cy/AIbcjS9J4KDBMra9T3H/FbaH4+Yq7\nwLCXiera6UGrZQOT3c1w7udRIQKBgQDGfdQjIqJcy7WmzU2lO5+O6H379a59IF+e\nzc0rWHuM5iNTi7FLrxdkcP0xb1PuLZLpWc7mrpWfruT28++WLmXNJpnLg8v28sIe\nvRaesYp9ACHDIU2k0FMG0qKInCanfwZv5A7I5tTeAkGBJhBxdlcSfUjH3SpR4ww0\ndl036X6sCQKBgGBKeyqGluzVz/SCN79wBL0WO8k4KdDU9JR5KtWRHCtIIH6+kfl9\nkdhzb6UBOKWuy9tXKg7GMx0xahujC4LfkMaVRD2N3wzuvZ+w3DNcSXyMoIfKeIZO\nmEgOOxwEP8Na1fpwCVUaFNDnfxH4zJ+Pa6E9so3kV3Dh6kuudUhxLU9hAoGBALTO\nldjTibah0Xx580qaP0P8QBatux47yR5tNYFQfmrgkDlgPEZG3jYePmUzle6WEQcD\nSdcUHTNyKxtRJWNWLGFt0hZyne77Pxyk/d/ctdwbrKWExqdlJNxILsnmA8f7i6+M\nvHMA4dLBl02/kKbqN3KeMRfuPMiO2+VGFLADv+GRAoGBAL/NoiS+6CV87X4c0sUz\n022Xxa1m2iIkNav0ccRwc/cxvEo3CFIT47rDiQD6ww2ghw19VCMnidBLH3YuAv4i\nIOr6cMxpG/HFxVrEapidxpdZeYV/vNAu+NuzpgGiDzjRmXRIcjcM8ShWKefclk/0\nVfW1731qm0c3qwnz+7EOzs0O\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-pnrx74iv8qp65t76nvou1g-b5q@liberty-320409.iam.gserviceaccount.com",
+  "client_id": "115156479073388664833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-pnrx74iv8qp65t76nvou1g-b5q%40liberty-320409.iam.gserviceaccount.com"
+}
