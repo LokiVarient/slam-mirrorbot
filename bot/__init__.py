@@ -6,7 +6,7 @@ import random
 import string
 
 import aria2p
-import telegram.ext as tg
+import telegram as tg
 from dotenv import load_dotenv
 from pyrogram import Client
 from telegraph import Telegraph
